@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1be5b5d-a3ca-4a7d-b2b8-8d282b7023e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_version/block.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_version/blockchain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_version/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_version/proofofwork.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/block.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/blockchain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/blockchainiterator.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/checkBalance.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/cli.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/commandLine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/alphabet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/base58.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/base58_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/base58bench_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/base58check.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/base58check_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/cov_report.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/example_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/base58/genalphabet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_386.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_amd64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_arm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_arm64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_linux.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_openbsd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_ppc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_ppc64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_ppc64le.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_s390x.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_unix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_unix_solaris.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bolt_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/boltsync_unix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bucket.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/bucket_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/cmd/bolt/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/cmd/bolt/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/cursor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/cursor_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/db_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/freelist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/freelist_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/node_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/page.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/page_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/quick_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/simulation_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/tx.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/bolt/tx_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/ripemd160/ripemd160.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/ripemd160/ripemd160_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/lib/ripemd160/ripemd160block.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/proofofwork.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/transaction.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/transfer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/wallet.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/wallet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockChain/wallets.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/block" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/block.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockChain.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchainiterator.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_386.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_amd64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_arm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_arm64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_linux.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_openbsd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_ppc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_ppc64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_ppc64le.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_s390x.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_unix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_unix_solaris.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/boltsync_unix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bucket.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bucket_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/cmd/bolt/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/cmd/bolt/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/cursor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/cursor_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/db_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/freelist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/freelist_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/node.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/node_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/page.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/page_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/quick_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/simulation_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/tx.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/tx_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkBalance.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandLine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transaction.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallet.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallets.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/fabric-samples" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/install-fabric.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text/configtx.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text/crypto-config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/configtx.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/ca/ca.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/ca/priv_sk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/msp/admincerts/Admin@example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/msp/cacerts/ca.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/msp/tlscacerts/tlsca.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp/admincerts/Admin@example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp/cacerts/ca.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp/keystore/priv_sk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp/signcerts/orderer.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/server.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/server.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/tlsca/priv_sk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/tlsca/tlsca.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/users/Admin@example.com/msp/admincerts/Admin@example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/users/Admin@example.com/msp/cacerts/ca.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/users/Admin@example.com/msp/keystore/priv_sk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/users/Admin@example.com/msp/signcerts/Admin@example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/users/Admin@example.com/msp/tlscacerts/tlsca.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/users/Admin@example.com/tls/ca.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/users/Admin@example.com/tls/client.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/ordererOrganizations/example.com/users/Admin@example.com/tls/client.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/ca/ca.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/ca/priv_sk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/msp/cacerts/ca.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/cacerts/ca.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/keystore/priv_sk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/signcerts/peer0.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/server.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/server.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/tlsca/priv_sk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/tlsca/tlsca.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/cacerts/ca.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/priv_sk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts/Admin@org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/tls/ca.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/tls/client.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/tls/client.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/text1/generate.block" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../privateKey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../publicKey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/ECC/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/EccPrivateKey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/EccPublicKey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/exam/BlockChain.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/exam/block" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/exam/block.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/exam/blockchain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/exam/commands.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/exam/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/exam/osCli.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/exam/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/hash/hash.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/hmac/hmac.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/privateKey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/publicKeyKey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/rsa.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../race/rsaQM/qm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rsa.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xc.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2a1Jhqz2DHw1M2rCKBrlmOgFKuW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/enf/Documents/Documents - en’s MacBook Air/xc/bolt_version",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1be5b5d-a3ca-4a7d-b2b8-8d282b7023e3" name="Changes" comment="" />
+      <created>1703480273589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703480273589</updated>
+      <workItem from="1703480274617" duration="1216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
